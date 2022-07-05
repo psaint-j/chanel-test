@@ -1,0 +1,51 @@
+{
+    "menu": [
+      {
+        "id": 45,
+        "label": "artists",
+        "children": [
+          {
+            "id": 23,
+            "label": "aerosmith",
+            "children": [
+              {
+                "id": 64,
+                "label": "get your wings",
+                "children": [
+                  {
+                    "id": 4343,
+                    "label": "same old song and dance"
+                  },
+                  {
+                    "id": 4347,
+                    "label": "train kept a-rollin"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 25,
+            "label": "Item 1.2"
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "label": "albums",
+        "children": [
+          {
+            "id": 44,
+            "label": "Get Your Wings"
+          },
+          {
+            "id": 454545,
+            "label": "Physical Graffiti"
+          } 
+        ]
+      },{
+        "id": 56,
+        "label": "genres"
+      }
+    ]
+  }
